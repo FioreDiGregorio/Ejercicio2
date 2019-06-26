@@ -1,0 +1,4 @@
+
+2019-06-26 00:09:36.669 Informacion [ClaseLog] Esto es un Log
+
+2019-06-26 15:09:18.029 Error [ClaseLog] Esto es un Log

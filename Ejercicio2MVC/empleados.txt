@@ -1,0 +1,2 @@
+fiore;digregorio;42576432;FG;C1;GTF;DF;43.0;
+Lucas;Anezin;41614594;no tengo;C2;nose;Argentino;3.0;
